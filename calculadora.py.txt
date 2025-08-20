@@ -1,5 +1,4 @@
-# 📌 Calculadora Simples em Python
-# Autor: Luiz Henrique
+Calculadora Simples em Python
 # Descrição: Programa que realiza operações matemáticas básicas.
 
 def soma(a, b):
